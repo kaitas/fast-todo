@@ -12,5 +12,5 @@ https://github.com/kaitas/FastAPI-ToDoAPI
 ## note.comでの解説
 
 - [RenderとVercelを使ってFastAPIで書かれたPythonプロジェクトをサービスとしてデプロイする(前編)](https://note.com/o_ob/n/n332fcb71cb7d)
-- [RenderとVercelを使ってFastAPIで書かれたPythonプロジェクトをサービスとしてデプロイする(後編](https://note.com/o_ob/n/n332fcb71cb7d)
+- [RenderとVercelを使ってFastAPIで書かれたPythonプロジェクトをサービスとしてデプロイする(後編)](https://note.com/o_ob/n/n97d37d0556f0)
 
